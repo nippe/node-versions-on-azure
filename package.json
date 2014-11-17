@@ -1,0 +1,15 @@
+{
+  "name": "node-version",
+  "version": "0.0.1",
+  "description": "Simple app for visualising node versions on azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nippe@node-version.scm.azurewebsites.net:443/node-version.git"
+  },
+  "author": "Niklas Nihlén",
+  "license": "MIT"
+}
